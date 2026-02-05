@@ -1,7 +1,7 @@
 # Hi there, I'm Resul Argın! 👋
 
 ### 🎓 Electrical and Electronics Engineering Student @ Marmara University
-### ⚡ IEEE PES (Power and Energy Society) Committee President
+### ⚡ IEEE MARMARA PES (Power and Energy Society) Committee President
 
 I am a passionate engineering student focused on **embedded systems**, **automotive electronics**, and **Android development**. I love solving real-world problems through code, like my latest project **Watever**, which I built to solve my own hydration struggle!
 
