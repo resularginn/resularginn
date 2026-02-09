@@ -41,9 +41,6 @@ Logic-based security solutions implemented using Arduino.
 
 ---
 
-## 📊 GitHub Stats & Achievements
-![Resul's GitHub stats](https://github-readme-stats.vercel.app/api?username=resularginn&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resularginn&layout=compact&theme=tokyonight)
 
 - 📜 **Certificates:** SOCAR Next Gen Academy, NOVA Competency Program, DenizBank Overseas Internship.
 
